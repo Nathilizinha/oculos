@@ -1,1 +1,20 @@
-<!DOCTYPE 
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color:#00fcda;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    
+}
+.cabecalho-imgem{
+     width: 9%;
+}    
+.cabecalho-lista-item{
+    display:inline-block;
+    margin: 0 10px;
+    font-size: 20px;
+}
